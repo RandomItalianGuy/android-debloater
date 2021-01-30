@@ -1,318 +1,263 @@
 {
   "miui": [
     {
-      "display_name": "",
-      "package_name": "com.mfashiongallery.emag",
+      "package_name": "Mi Browser",
+      "display_name": "com.mi.globalbrowser",
       "notes": ""
     },
     {
-      "display_name": "Mi File Manager",
-      "package_name": "com.mi.android.globalFileexplorer",
+      "package_name": "App Vault",
+      "display_name": "com.mi.android.globalminusscreen",
       "notes": ""
     },
     {
-      "display_name": "Mi Launcher",
-      "package_name": "com.mi.android.globallauncher",
+      "package_name": "Mi File Manager",
+      "display_name": "com.mi.android.globalFileexplorer",
       "notes": ""
     },
     {
-      "display_name": "",
-      "package_name": "com.mi.android.globalpersonalassistant",
+      "package_name": "MIUI Clock",
+      "display_name": "com.android.deskclock",
       "notes": ""
     },
     {
-      "display_name": "",
-      "package_name": "com.mi.globalTrendNews",
+      "package_name": "Mi Wallet (India)",
+      "display_name": "com.mipay.wallet.in",
       "notes": ""
     },
     {
-      "display_name": "Mi Health",
-      "package_name": "com.mi.health",
+      "package_name": "Feedback app",
+      "display_name": "com.google.android.feedback",
       "notes": ""
     },
     {
-      "display_name": "Mi Webkit",
-      "package_name": "com.mi.webkit.core",
+      "package_name": "Backup app",
+      "display_name": "com.miui.backup",
       "notes": ""
     },
     {
-      "display_name": "",
-      "package_name": "com.milink.service",
+      "package_name": "Bug reporting app",
+      "display_name": "com.miui.bugreport",
       "notes": ""
     },
     {
-      "display_name": "Mi Wallet",
-      "package_name": "com.mipay.wallet.id",
+      "package_name": "Mi Calculator",
+      "display_name": "com.miui.calculator",
       "notes": ""
     },
     {
-      "display_name": "Mi Wallet (India)",
-      "package_name": "com.mipay.wallet.in",
+      "package_name": "System Cleaner",
+      "display_name": "com.miui.cleanmaster",
       "notes": ""
     },
     {
-      "display_name": "",
-      "package_name": "com.miui.accessibility",
+      "package_name": "MIUI Compass",
+      "display_name": "com.miui.compass",
       "notes": ""
     },
     {
-      "display_name": "MIUI Analytics",
-      "package_name": "com.miui.analytics",
+      "package_name": "MIUI FM",
+      "display_name": "com.miui.fm",
       "notes": ""
     },
     {
-      "display_name": "Wallpaper Carousel",
-      "package_name": "com.miui.android.fashiongallery",
+      "package_name": "MIUI Picture in Picture service",
+      "display_name": "com.miui.freeform",
       "notes": ""
     },
     {
-      "display_name": "MIUI Always-on Display",
-      "package_name": "com.miui.aod",
+      "package_name": "Quick Apps",
+      "display_name": "com.miui.hybrid",
+      "notes": "Practically for data mining."
+    },
+    {
+      "package_name": "Quick Apps",
+      "display_name": "com.miui.hybrid.accessory",
+      "notes": "Practically for data mining."
+    },
+    {
+      "package_name": "Services & feedback",
+      "display_name": "com.miui.miservice",
       "notes": ""
     },
     {
-      "display_name": "Backup app",
-      "package_name": "com.miui.backup",
+      "package_name": "Mi Share",
+      "display_name": "com.miui.mishare.connectivity",
       "notes": ""
     },
     {
-      "display_name": "Bug reporting app",
-      "package_name": "com.miui.bugreport",
+      "package_name": "Wallpaper app",
+      "display_name": "com.miui.miwallpaper",
+      "notes": "You may not be able to change lockscreen wallpaper after uninstalling this app."
+    },
+    {
+      "package_name": "MSA or MIUI Ad Services",
+      "display_name": "com.miui.msa.global",
       "notes": ""
     },
     {
-      "display_name": "Mi Calculator",
-      "package_name": "com.miui.calculator",
+      "package_name": "Notes",
+      "display_name": "com.miui.notes",
       "notes": ""
     },
     {
-      "display_name": "",
-      "package_name": "com.miui.cit",
+      "package_name": "Frequent phrases",
+      "display_name": "com.miui.phrase",
       "notes": ""
     },
     {
-      "display_name": "System Cleaner",
-      "package_name": "com.miui.cleanmaster",
+      "package_name": "Music Player",
+      "display_name": "com.miui.player",
       "notes": ""
     },
     {
-      "display_name": "Cloud Backup service",
-      "package_name": "com.miui.cloudbackup",
+      "package_name": "Sound Recorder",
+      "display_name": "com.android.soundrecorder",
       "notes": ""
     },
     {
-      "display_name": "Cloud service",
-      "package_name": "com.miui.cloudservice",
+      "package_name": "Screen Recorder",
+      "display_name": "com.miui.screenrecorder",
       "notes": ""
     },
     {
-      "display_name": "Cloud service",
-      "package_name": "com.miui.cloudservice.sysbase",
+      "package_name": "Quick Ball feature",
+      "display_name": "com.miui.touchassistant",
       "notes": ""
     },
     {
-      "display_name": "MIUI Compass",
-      "package_name": "com.miui.compass",
+      "package_name": "MIUI Video player",
+      "display_name": "com.miui.videoplayer",
       "notes": ""
     },
     {
-      "display_name": "",
-      "package_name": "com.miui.contentcatcher",
+      "package_name": "Weather app",
+      "display_name": "com.miui.weather2",
       "notes": ""
     },
     {
-      "display_name": "",
-      "package_name": "com.miui.enbbs",
+      "package_name": "Yellow Page app",
+      "display_name": "com.miui.yellowpage",
       "notes": ""
     },
     {
-      "display_name": "Camera Bokeh effect",
-      "package_name": "com.miui.extraphoto",
+      "package_name": "Mi Calendar",
+      "display_name": "com.xiaomi.calendar",
       "notes": ""
     },
     {
-      "display_name": "MIUI Biometric",
-      "package_name": "com.miui.face",
+      "package_name": "Games",
+      "display_name": "com.xiaomi.glgm",
       "notes": ""
     },
     {
-      "display_name": "MIUI FM",
-      "package_name": "com.miui.fm",
+      "package_name": "N/A",
+      "display_name": "com.xiaomi.joyose",
+      "notes": "Bloatware, safe to remove."
+    },
+    {
+      "package_name": "Mi Drop",
+      "display_name": "com.xiaomi.midrop",
       "notes": ""
     },
     {
-      "display_name": "MIUI FM",
-      "package_name": "com.miui.fmservice",
+      "package_name": "GetApps",
+      "display_name": "com.xiaomi.mipicks",
+      "notes": "Xiaomi App Store"
+    },
+    {
+      "package_name": "N/A",
+      "display_name": "com.xiaomi.miplay_client",
       "notes": ""
     },
     {
-      "display_name": "MIUI PiP service",
-      "package_name": "com.miui.freeform",
+      "package_name": "Mi Recycle",
+      "display_name": "com.xiaomi.mirecycle",
+      "notes": "MIUI Security"
+    },
+    {
+      "package_name": "Mi Pay",
+      "display_name": "com.xiaomi.payment",
       "notes": ""
     },
     {
-      "display_name": "MIUI Gallery",
-      "package_name": "com.miui.gallery",
+      "package_name": "Scanner app",
+      "display_name": "com.xiaomi.scanner",
       "notes": ""
     },
     {
-      "display_name": "",
-      "package_name": "com.miui.greenguard",
+      "package_name": "Chinese Payment service",
+      "display_name": "com.tencent.soter.soterserver",
       "notes": ""
     },
     {
-      "display_name": "",
-      "package_name": "com.miui.huanji",
+      "package_name": "Downloads",
+      "display_name": "com.android.providers.downloads",
       "notes": ""
     },
     {
-      "display_name": "Quick Apps (data mining app)",
-      "package_name": "com.miui.hybrid",
+      "package_name": "Downloads",
+      "display_name": "com.android.providers.downloads.ui",
       "notes": ""
     },
     {
-      "display_name": "Quick Apps (data mining app)",
-      "package_name": "com.miui.hybrid.accessory",
+      "package_name": "Mi Credit",
+      "display_name": "com.micredit.in",
       "notes": ""
     },
     {
-      "display_name": "Cloud Sync",
-      "package_name": "com.miui.micloudsync",
+      "package_name": "Mi Remote",
+      "display_name": "com.duokan.phone.remotecontroller",
       "notes": ""
     },
     {
-      "display_name": "",
-      "package_name": "com.miui.miservice",
+      "package_name": "MIUI Themes",
+      "display_name": "com.android.thememanager",
       "notes": ""
     },
     {
-      "display_name": "Mi Share",
-      "package_name": "com.miui.mishare.connectivity",
+      "package_name": "MIUI Themes",
+      "display_name": "com.android.thememanager.module",
       "notes": ""
     },
     {
-      "display_name": "Music app & sound enhancer",
-      "package_name": "com.miui.misound",
+      "package_name": "MIUI Drive",
+      "display_name": "com.miui.newmidrive",
       "notes": ""
     },
     {
-      "display_name": "Wallpaper app",
-      "package_name": "com.miui.miwallpaper",
+      "package_name": "MIUI to MIUI Message",
+      "display_name": "com.xiaomi.mircs",
       "notes": ""
     },
     {
-      "display_name": "",
-      "package_name": "com.miui.miwallpaper.earth",
+      "package_name": "Cloud service",
+      "display_name": "com.miui.cloudservice",
       "notes": ""
     },
     {
-      "display_name": "",
-      "package_name": "com.miui.miwallpaper.mars",
+      "package_name": "Cloud Sync",
+      "display_name": "com.miui.micloudsync",
       "notes": ""
     },
     {
-      "display_name": "MSA or MIUI Ad Services",
-      "package_name": "com.miui.msa.global",
+      "package_name": "Cloud service",
+      "display_name": "com.miui.cloudservice.sysbase",
       "notes": ""
     },
     {
-      "display_name": "",
-      "package_name": "com.miui.newmidrive",
+      "package_name": "Cloud Backup service",
+      "display_name": "com.miui.cloudbackup",
       "notes": ""
     },
     {
-      "display_name": "",
-      "package_name": "com.miui.nextpay",
-      "notes": ""
+      "package_name": "MIUI Analytics",
+      "display_name": "com.miui.analytics",
+      "notes": "Practically spyware."
     },
     {
-      "display_name": "Notes",
-      "package_name": "com.miui.notes",
-      "notes": ""
-    },
-    {
-      "display_name": "Frequent phrases",
-      "package_name": "com.miui.phrase",
-      "notes": ""
-    },
-    {
-      "display_name": "Music Player",
-      "package_name": "com.miui.player",
-      "notes": ""
-    },
-    {
-      "display_name": "",
-      "package_name": "com.miui.qr",
-      "notes": ""
-    },
-    {
-      "display_name": "Screen Recorder",
-      "package_name": "com.miui.screenrecorder",
-      "notes": ""
-    },
-    {
-      "display_name": "Text Message features",
-      "package_name": "com.miui.smsextra",
-      "notes": ""
-    },
-    {
-      "display_name": "MIUI System Launcher",
-      "package_name": "com.miui.system",
-      "notes": ""
-    },
-    {
-      "display_name": "Carrier name chaging service",
-      "package_name": "com.miui.systemui.carriers.overlay",
-      "notes": ""
-    },
-    {
-      "display_name": "Quick Ball feature",
-      "package_name": "com.miui.touchassistant",
-      "notes": ""
-    },
-    {
-      "display_name": "",
-      "package_name": "com.miui.translation.kingsoft",
-      "notes": ""
-    },
-    {
-      "display_name": "User Guide app",
-      "package_name": "com.miui.userguide",
-      "notes": ""
-    },
-    {
-      "display_name": "MIUI Video player",
-      "package_name": "com.miui.videoplayer",
-      "notes": ""
-    },
-    {
-      "display_name": "",
-      "package_name": "com.miui.virtualsim",
-      "notes": ""
-    },
-    {
-      "display_name": "",
-      "package_name": "com.miui.vsimcore",
-      "notes": ""
-    },
-    {
-      "display_name": "Weather app",
-      "package_name": "com.miui.weather2",
-      "notes": ""
-    },
-    {
-      "display_name": "",
-      "package_name": "com.miui.wmsvc",
-      "notes": ""
-    },
-    {
-      "display_name": "Yellow Page app",
-      "package_name": "com.miui.yellowpage",
-      "notes": ""
-    },
-    {
-      "display_name": "",
-      "package_name": "com.miui.zman",
+      "package_name": "Xiaomi System apps updater",
+      "display_name": "com.xiaomi.discover",
       "notes": ""
     }
   ]
