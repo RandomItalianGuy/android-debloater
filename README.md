@@ -11,7 +11,6 @@ This is a little script that i created to debloat any android smartphone of prei
 The script doesn't require root, it just uses adb instead.
 
 FEATURES:
-
 - "Auto or manual" modes
 - Modifiable .json files
 - Shows errors when trying to uninstall an app, if any
@@ -22,9 +21,9 @@ TODO:
 
 GUIDE:
 
-- Python version 3 or higher required. -
+- Python version 3 or higher required. 
 
-Just unpack the .zip into any folder of your choice.
-Add adb in the same folder.
-Run it from a cmd/terminal.
+- Just unpack the .zip into any folder of your choice.
+- Add adb in the same folder.
+- Run it from a cmd/terminal.
 
