@@ -1,7 +1,7 @@
 # Android-DeBloater
 
 This is a little script that i created to debloat any android smartphone of preinstalled apps, such as those from the vendor, or carrier.
-The script doesn't require root, it just uses adb instead.
+The script doesn't require root, it just uses adb.
 
 ## DISCLAIMER
 
@@ -20,6 +20,8 @@ Only use this script if you accept the risks involved.
 ### GUIDE:
 
 - Python version 3 or higher required. 
+- Adb in same folder as the script (or in PATH) required.
+- USB debbugging enabled on the device.
 
 - Just unpack the .zip into any folder of your choice.
 - Add adb in the same folder.
