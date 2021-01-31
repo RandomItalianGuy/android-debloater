@@ -5,29 +5,29 @@ from os import system, name
 def clearScreen(): 
     # for windows os
     if name == 'nt': 
-        _ = system('cls') 
-    # for mac and linux os(The name is posix)
+        clrscr = system('cls') 
+    # for mac and linux os
     else: 
-        _ = system('clear') 
+        clrscr = system('clear') 
 
-print("\nHi, welcome to version 0.1.0 of my Android-Debloater Script.\nIf you have read the disclaimer, press Y. Press any other key to exit the script.\n")
+print("\nHi, welcome to version 0.3.1 of my Android-Debloater Script.\nIf you have read the disclaimer, press Y. Press any other key to exit the script.\n")
 ch=input()
 if ch.lower()=="y":
     directory = 'packages/'
-    print('\nYou can choose from one of the following packages.\n')
+    print('\nYou can choose from one of the following json files.\n')
     for file in os.listdir(directory):
         filename = os.fsdecode(file)
         if filename.endswith(".json"): 
-            print(os.path.join(filename))
+            print(os.path.splitext(filename)[0])
             continue
             
-    print("\nWhich package do you want to choose? You don't need to include the extension.")
+    print("\nWhich json do you want to choose?")
     str=input()    
     if file in os.listdir(directory):
         filename = os.fsdecode(file)
         if filename == (str+'.json'):
             clearScreen()
-            print('\nYou have chosen the following package: '+str)
+            print('\nYou have chosen the following json: '+str)
             sleep(1)
         else:
             print("\nThe package that you selected doesn't exist. The script is terminating.")
@@ -56,6 +56,7 @@ if ch.lower()=="y":
         for p in data[str]:
             print('\nApp name: ' + p['display_name'])
             print('Package name: ' + p['package_name'] + "\n")
+            print('Notes: ' + p['notes'] + "\n")
             print('Press Y to uninstall, any other key to skip')
             ch=input()
             if ch.lower()=="y":          
