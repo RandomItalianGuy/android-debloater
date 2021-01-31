@@ -1,25 +1,25 @@
 # Android-DeBloater
 
-##DISCLAIMER
+## DISCLAIMER
 
 I don't assume any responsibility for what you do with your device, this script, and any damages that could occur from those.
 Only use this script if you accept the risks involved.
 
-###Android-DeBloater
+### Android-DeBloater
 
 This is a little script that i created to debloat any android smartphone of preinstalled apps, such as those from the vendor, or carrier.
 The script doesn't require root, it just uses adb instead.
 
-###FEATURES:
+### FEATURES:
 - "Auto or manual" modes
 - Modifiable .json files
 - Shows errors when trying to uninstall an app, if any
 
-###TODO:
+### TODO:
 - Add logging
 - Add more .json files
 
-###GUIDE:
+### GUIDE:
 
 - Python version 3 or higher required. 
 
